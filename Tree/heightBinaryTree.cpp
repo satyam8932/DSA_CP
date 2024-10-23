@@ -72,6 +72,5 @@ int main() {
     cout << "In-order Traversal: ";
     tree.inorderTraversal(tree.root);
     cout << endl;
-
     return 0;
 }
